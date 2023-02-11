@@ -8,7 +8,7 @@
 This Demo consists of a simple movement of Luigi (The Italian Plumber's brother) trying to run away from a gang of Koopa Troopas (The evil Bowser's underlings)
 
 ### Video Demo (Wait for a bit for it to load!)
-![Demo](https://github.com/chesspatzer/Unreal_Personal_Demos/blob/main/Demo_Gif_Video.gif?raw=true)
+![Demo](https://github.com/chesspatzer/Unreal_Personal_Demos/blob/main/Demo_Gif_Video.gif?raw=true|width=500)
 
 ### Nav Mesh
 ![Nav Mesh](https://i.imgur.com/sBdISET.png)
