@@ -13,7 +13,7 @@ This Demo consists of a simple movement of Luigi (The Italian Plumber's brother)
 ### Nav Mesh
 ![Nav Mesh](https://i.imgur.com/sBdISET.png)
 
-### Simple Behavior Tree and Blackboard
+### Behavior Tree and Blackboard
 ![BT](https://i.imgur.com/BU0eZJR.png)
 
 # Acknowledgements
