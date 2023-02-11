@@ -9,7 +9,7 @@ This Demo consists of a simple movement of Luigi (The Italian Plumber's brother)
 
 ### Video Demo (Wait for a bit for it to load!)
 
-<img src="https://github.com/chesspatzer/Unreal_Personal_Demos/blob/main/Demo_Gif_Video.gif?raw=true" width="1920" height="1080">
+<img src="https://github.com/chesspatzer/Unreal_Personal_Demos/blob/main/Demo_Gif_Video.gif?raw=true" width="1920" height="500">
 
 ![Demo](https://github.com/chesspatzer/Unreal_Personal_Demos/blob/main/Demo_Gif_Video.gif?raw=true =250x250)
 
