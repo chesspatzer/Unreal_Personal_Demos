@@ -16,6 +16,7 @@ This Demo consists of a simple movement of Luigi (The Italian Plumber's brother)
 
 ### Behavior Tree and Blackboard
 ![BT](https://i.imgur.com/BU0eZJR.png)
+![BT2](https://i.imgur.com/YImlN6G.png)
 
 # Acknowledgements
 
